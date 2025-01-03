@@ -46,14 +46,6 @@ Our open-source [python library](https://pypi.org/project/kiln-ai/) allows you t
 pip install kiln-ai
 ```
 
-## Guides
-
-- [Fine Tuning LLM Models](guides/Fine%20Tuning%20LLM%20Models%20Guide.md)
-- [Synthetic Data Generation](guides/Synthetic%20Data%20Generation.md)
-- [Collaborating with Kiln](guides/Collaborating%20with%20Kiln.md) - How to share Kiln projects with your team.
-- [Using the Kiln Python Library](https://kiln-ai.github.io/Kiln/kiln_core_docs/kiln_ai.html) - Includes how to load datasets into Kiln, or using Kiln datasets in your own projects/notebooks.
-- [Model Support](guides/Model%20Support.md) - Included models, and how to add more.
-
 ## Learn More
 
 ### Build High Quality AI Products with Datasets
