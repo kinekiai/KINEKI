@@ -116,11 +116,5 @@ pip install kiln_server
 
 See [CONTRIBUTING.md](CONTRIBUTING.md) for information on how to setup a development environment and contribute to Kiln.
 
-## Licenses & Trademarks
 
-- Python Library: [MIT License](libs/core/LICENSE.txt)
-- Python REST Server/API: [MIT License](libs/server/LICENSE.txt)
-- Desktop App: free to download and use under our [EULA](app/EULA.md), and [source-available](/app). [License](app/LICENSE.txt)
-- The Kiln names and logos are trademarks of Chesterfield Laboratories Inc.
 
-Copyright 2024 - Chesterfield Laboratories Inc.
