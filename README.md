@@ -11,16 +11,16 @@
 
 ## Key Features
 
-- 🚀 **Intuitive Desktop Apps**: One-click apps for Windows, MacOS, and Linux. Truly intuitive design.
-- 🎛️ **Fine Tuning**: Zero-code fine-tuning for Llama, GPT4o, and Mixtral. Automatic serverless deployment of models.
-- 🤖 **Synthetic Data Generation**: Generate training data with our interactive visual tooling.
-- 🤝 **Team Collaboration**: Git-based version control for your AI datasets. Intuitive UI makes it easy to collaborate with QA, PM, and subject matter experts on structured data (examples, prompts, ratings, feedback, issues, etc.).
+- 🚀 **Effortless Agent Deployment**: Launch custom-trained AI agents with absolutely no coding required.
+- 🎛️ **Cross-Platform Compatibility**: Enjoy a seamless experience with our custom-built app available for Windows, macOS, and Linux.
+- 🪙 **Token Integration**: Leverage your own token to power and sustain your agents ecosystem.
+- 🤝 **Free to Use App**: Our application is free to use. Note: Deploying agents online will require $KILN tokens. Hosting them locally will remain free.
 - 📝 **Auto-Prompts**: Generate a variety of prompts from your data, including chain-of-thought, few-shot, and multi-shot.
-- 🌐 **Wide Model and Provider Support**: Use any model via Ollama, OpenAI, OpenRouter, Fireworks, Groq, AWS, or any OpenAI compatible API.
+- 🌐 **Interactive Training Data Generation**: Create robust training datasets with our intuitive and interactive visual tooling.
 - 🧑‍💻 **Open-Source Library and API**: Our Python library and OpenAPI REST API are MIT open source.
 - 🔒 **Privacy-First**: We can't see your data. Bring your own API keys or run locally with Ollama.
-- 🗃️ **Structured Data**: Build AI tasks that speak JSON.
-- 💰 **Free**: Our apps are free, and our library is open-source.
+- 🤖 **Synthetic Data Generation**: Generate training data with our interactive visual tooling.
+- 🎛️ **Fine Tuning**: Zero-code fine-tuning for Llama, GPT4o, and Mixtral. Automatic serverless deployment of models.
 
 ## Demo
 
