@@ -7,8 +7,6 @@
     The easiest tool for fine-tuning LLM models, synthetic data generation, and collaborating on datasets.
 </h3>
 
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
-
 [<img width="220" alt="Download button" src="https://github.com/user-attachments/assets/a5d51b8b-b30a-4a16-a902-ab6ef1d58dc0">](https://github.com/KILNAI/KILN/releases/tag/v.0.1.0)
 
 ## Key Features
