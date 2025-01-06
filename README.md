@@ -1,7 +1,6 @@
-<p align="center">
-    <picture>
-        <img width="205" alt="Kiln AI Logo" src="https://github.com/user-attachments/assets/5fbcbdf7-1feb-45c9-bd73-99a46dd0a47f">
-    </picture>
+<div align="center">
+  <img src="./static/knekig.png" alt="Kineki" width="100%" />
+</div>
 </p>
 <h3 align="center">
     Launch custom AI agents online with ease. Build scalable, token-driven ecosystems, fine-tune LLMs & much more!
@@ -27,7 +26,7 @@
 In this demo, I create 9 fine-tuned models (including Llama 3.x, Mixtral, and GPT-4o-mini) in just 18 minutes, achieving great results for less than $6 total cost. [See details](guides/Fine%20Tuning%20LLM%20Models%20Guide.md).
 
 <a href="guides/Fine%20Tuning%20LLM%20Models%20Guide.md">
-<img alt="Kiln Preview" src="https://github.com/user-attachments/assets/51db632b-be98-4fc6-a31c-0ba6fd54dcbb">
+<img alt="Kineki Preview" src="https://github.com/user-attachments/assets/51db632b-be98-4fc6-a31c-0ba6fd54dcbb">
 </a>
 
 ## Download Kiln Desktop Apps
