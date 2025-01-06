@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./static/knekig.png" alt="Kineki" width="100%" />
+  <img src="./static/knekig.png" alt="Kineki" width="60%" />
 </div>
 </p>
 <h3 align="center">
